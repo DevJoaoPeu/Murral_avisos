@@ -41,6 +41,8 @@ function newPost() {
   };
 
   fetch("http://localhost:3000/api/new", options).then((res) => {
+    title.innerHTML = "";
+    description.innerHTML = "";
     updatePost();
   });
 }
