@@ -1,7 +1,5 @@
 module.exports = {
-  mural: [
-   
-  ],
+  mural: [],
 
   getAll() {
     return this.mural;
