@@ -50,15 +50,5 @@ node index.js
 
 <img style="width: 500px" src="https://raw.githubusercontent.com/DevJoaoPeu/Murral_avisos/master/public/assets/Captura%20de%20Tela%20(51).png" alt="image"/>
 
-## Link para o Deploy
 
-[Adicione o link para o deploy do projeto, caso tenha]
-
-## Como contribuir
-
-Se você deseja contribuir com o projeto, siga os seguintes passos:
-
-1. Faça um fork do repositório.
-
-2. Crie um novo branch para sua contribuição:
 
